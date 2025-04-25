@@ -1,0 +1,576 @@
+{
+  "Data": [
+    {
+      "Item": "Comedy Skit",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Swetha S",
+          "ChestNo": "PT-TARANG25-1579",
+          "Company": "Wipro"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Razal V R",
+          "ChestNo": "PT-TARANG25-1183",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Embroidery",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Raeshmiya Asokan",
+          "ChestNo": "PT-TARANG25-1821",
+          "Company": "EY"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Silpa  K B",
+          "ChestNo": "PT-TARANG25-1991",
+          "Company": "Invisor"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Anjali J Omanakuttan ",
+          "ChestNo": "PT-TARANG25-2112",
+          "Company": "Williams Lea"
+        }
+      ]
+    },
+    {
+      "Item": "Bottle Art",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Christy G Krishnan",
+          "ChestNo": "PT-TARANG25-1705",
+          "Company": "KeyValue Software Systems"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Labeeba Rasheed",
+          "ChestNo": "PT-TARANG25-1833",
+          "Company": "Bytestrone India "
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Gokul P V",
+          "ChestNo": "PT-TARANG25-2163",
+          "Company": "KeyValue Software Systems"
+        }
+      ]
+    },
+    {
+      "Item": "Pencil Drawing",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Pradeep P",
+          "ChestNo": "PT-TARANG25-1969",
+          "Company": "EY"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "RAHUL V V",
+          "ChestNo": "PT-TARANG25-1529",
+          "Company": "UVJ Technologies Pvt.Ltd"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Hirosh A C",
+          "ChestNo": "PT-TARANG25-1634",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Mono Act",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Maria Chris P G",
+          "ChestNo": "PT-TARANG25-1498",
+          "Company": "Wipro"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "drishya Raghavan",
+          "ChestNo": "PT-TARANG25-1620",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Mimicry",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Akshay Prasad",
+          "ChestNo": "PT-TARANG25-1040",
+          "Company": "IBM"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Prem Prasannan ",
+          "ChestNo": "PT-TARANG25-1621",
+          "Company": "Wipro"
+        }
+      ]
+    },
+    {
+      "Item": "Nadakam/Drama",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Prem Prasannan ",
+          "ChestNo": "PT-TARANG25-1621",
+          "Company": "Wipro"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Benetta Peter",
+          "ChestNo": "PT-TARANG25-2132",
+          "Company": "Ignitarium Technology Solutions "
+        }
+      ]
+    },
+    {
+      "Item": "Poem Recitation - Malayalam",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Naveen Harikumar",
+          "ChestNo": "PT-TARANG25-1195",
+          "Company": "Hubbell Burndy India"
+        },
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Krishna Vinod",
+          "ChestNo": "PT-TARANG25-1032",
+          "Company": "IBM"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Mahesh  Mohan",
+          "ChestNo": "PT-TARANG25-1122",
+          "Company": "Cognizant"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Gowri Prasad",
+          "ChestNo": "PT-TARANG25-1259",
+          "Company": "Wipro"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Karishma  Pious P",
+          "ChestNo": "PT-TARANG25-2239",
+          "Company": "Wipro"
+        }
+      ]
+    },
+    {
+      "Item": "Poem Recitation - English",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Anna Bobby ",
+          "ChestNo": "PT-TARANG25-1215",
+          "Company": "EY"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Rayna Mariam Thomas",
+          "ChestNo": "PT-TARANG25-2084",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Poem Recitation - Hindi",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Shivani  T",
+          "ChestNo": "PT-TARANG25-1035",
+          "Company": "Tata Consultancy Services"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Mehna Susan",
+          "ChestNo": "PT-TARANG25-1628",
+          "Company": "Cognizant"
+        }
+      ]
+    },
+    {
+      "Item": "Light Music Female",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Krishnendu Suresh",
+          "ChestNo": "PT-TARANG25-1405",
+          "Company": "Tata Consultancy Services"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Jeslin Elsa Jose",
+          "ChestNo": "PT-TARANG25-1754",
+          "Company": "Zellis Hr India "
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Neethu Nandakumar",
+          "ChestNo": "PT-TARANG25-1112",
+          "Company": "Thinkpalm Technologies "
+        }
+      ]
+    },
+    {
+      "Item": "Vrindavadyam(Band)",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Vysakh T",
+          "ChestNo": "PT-TARANG25-1476",
+          "Company": "KeyValue Software Systems"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Roshan Mathew",
+          "ChestNo": "PT-TARANG25-2242",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Patriotic Song",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Sreelakshmi R",
+          "ChestNo": "PT-TARANG25-1986",
+          "Company": "IBM"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Unaiza Marzook",
+          "ChestNo": "PT-TARANG25-1042",
+          "Company": "EY"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Vinay John",
+          "ChestNo": "PT-TARANG25-1399",
+          "Company": "KeyValue Software Systems"
+        }
+      ]
+    },
+    {
+      "Item": "Sopana Sangeetham",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Sandeep  PV",
+          "ChestNo": "PT-TARANG25-1111",
+          "Company": "Conduent"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Gayathri Devi",
+          "ChestNo": "PT-TARANG25-2307",
+          "Company": "Fragomen"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Neethu Nandakumar",
+          "ChestNo": "PT-TARANG25-1112",
+          "Company": "Thinkpalm Technologies "
+        }
+      ]
+    },
+    {
+      "Item": "Kathakali Sangeetham",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Sandeep  PV",
+          "ChestNo": "PT-TARANG25-1111",
+          "Company": "Conduent"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Rakhi Varma",
+          "ChestNo": "PT-TARANG25-1473",
+          "Company": "EY"
+        }
+      ]
+    },
+    {
+      "Item": "T-Shirt Painting",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Gokul P V",
+          "ChestNo": "PT-TARANG25-2163",
+          "Company": "KeyValue Software Systems"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Mahesh Raveendran",
+          "ChestNo": "PT-TARANG25-1356",
+          "Company": "IBM"
+        }
+      ]
+    },
+    {
+      "Item": "Mehndi Art",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Athira  P A",
+          "ChestNo": "PT-TARANG25-1589",
+          "Company": "Conduent"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Indumathi Palanisamy",
+          "ChestNo": "PT-TARANG25-2071",
+          "Company": "Xerox Technology Services"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Milkai Christopher ",
+          "ChestNo": "PT-TARANG25-1742",
+          "Company": "Hh Back Office Services  "
+        }
+      ]
+    },
+    {
+      "Item": "Light Music Male",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Gangadharan  Cy",
+          "ChestNo": "PT-TARANG25-1102",
+          "Company": "EY"
+        },
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Akshay  Ganesh",
+          "ChestNo": "PT-TARANG25-1279",
+          "Company": "UST"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Mahesh  Mohan",
+          "ChestNo": "PT-TARANG25-1122",
+          "Company": "Cognizant"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Sreejit Sreekumaran Nair",
+          "ChestNo": "PT-TARANG25-1990",
+          "Company": "Williams Lea"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Abraham Shifin",
+          "ChestNo": "PT-TARANG25-1210",
+          "Company": "Tata Consultancy Services"
+        }
+      ]
+    },
+    {
+      "Item": "Folk song - Group",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Sooraj A",
+          "ChestNo": "PT-TARANG25-1305",
+          "Company": "QBurst"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Roshan Mathew",
+          "ChestNo": "PT-TARANG25-2242",
+          "Company": "Tata Consultancy Services"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Abhishek P",
+          "ChestNo": "PT-TARANG25-1682",
+          "Company": "KeyValue Software Systems"
+        }
+      ]
+    },
+    {
+      "Item": "Rally",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "50 Points",
+          "Name": "KeyValue Software Systems ",
+          "ChestNo": "PT-TARANG25-2429",
+          "Company": "KeyValue Software Systems"
+        },
+        {
+          "Postion": "Second",
+          "Points": "40 Points",
+          "Name": "Invisor ",
+          "ChestNo": "PT-TARANG25-2436",
+          "Company": "Invisor"
+        }
+      ]
+    },
+    {
+      "Item": "Folk song - Solo ",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Sudarsanan N",
+          "ChestNo": "PT-TARANG25-2118",
+          "Company": "Vaisesika Consulting "
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Akash Mathew",
+          "ChestNo": "PT-TARANG25-1055",
+          "Company": "IBS Software"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Jyothis Thilakan",
+          "ChestNo": "PT-TARANG25-1504",
+          "Company": "Codework Solutions  "
+        }
+      ]
+    },
+    {
+      "Item": "Spot dubbing",
+      "Category": "Solo",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "15 Points",
+          "Name": "Akshay Prasad",
+          "ChestNo": "PT-TARANG25-1040",
+          "Company": "IBM"
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Prajeesh Prasad",
+          "ChestNo": "PT-TARANG25-1679",
+          "Company": "Techgentsia Software Technologies "
+        },
+        {
+          "Postion": "Second",
+          "Points": "10 Points",
+          "Name": "Arjundev J",
+          "ChestNo": "PT-TARANG25-2310",
+          "Company": "Fragomen"
+        }
+      ]
+    },
+    {
+      "Item": "Tough Look",
+      "Category": "Group",
+      "Details": [
+        {
+          "Postion": "First",
+          "Points": "30 Points",
+          "Name": "Aarathy Muraleedharan",
+          "ChestNo": "PT-TARANG25-1523",
+          "Company": "KeyValue Software Systems"
+        },
+        {
+          "Postion": "Second",
+          "Points": "20 Points",
+          "Name": "Sreeja Sreekumar ",
+          "ChestNo": "PT-TARANG25-2181",
+          "Company": "Wipro"
+        }
+      ]
+    }
+  ]
+}
