@@ -61,32 +61,34 @@ async def unsubscribe(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("You're not subscribed. Subscribe now!")
 
 # Notify all subscribers (you could hook this to an event or admin-only command)
-async def notify_all(context: ContextTypes.DEFAULT_TYPE, old, data):
-    message = """
-    <b>📢 New Results Out !!!</b>\n
-    """
+async def notify_all(app, old, data):
+
     data = data["Data"]
     old = old["Data"]
     old_items = []
     for y in old:
         old_items.append(y["Item"])
+    print(old_items)
     for x in data:
-        if x["Item"] not in list(old):
+        print(x["Item"])
+        if x["Item"] not in old_items:
             Details = x['Details']
-            message += f"<b>{x['Item']}</b> - {x['Category']}\n"
-            message += "————————————\n"
+            #print(x)
+            message = "<b>📢 New Result Out !!!</b>\n"
+            message += f"<b>{x['Item'].strip()}</b> - {x['Category']}\n"
+            message += "————————————\n\n"
             for i in Details:
-                message += f"<b>{i['Position']} • {i['Points']}</b>\n"
-                message += f"<b>{i['Name']}</b>\n"
-                message += f"<b>{i['ChestNo']}</b>\n"
-                message += f"<b>{i['Company']}</b>\n\n"
+                message += f"<b>🏆{i['Postion']} • {i['Points']}</b>\n"
+                message += f"<b> {i['Name']}</b>\n"
+                message += f"<b> {i['ChestNo']}</b>\n"
+                message += f"<b> {i['Company']}</b>\n\n"
             message += "\n\n\n"
-    print(message)
-    for user_id in subscribers:
-        try:
-            await context.bot.send_message(chat_id=user_id, text=message, parse_mode="HTML")
-        except Exception as e:
-            print(f"Failed to notify {user_id}: {e}")
+    #print(message)
+            for user_id in subscribers:
+                try:
+                    await app.send_message(chat_id=user_id, text=message, parse_mode="HTML")
+                except Exception as e:
+                    print(f"Failed to notify {user_id}: {e}")
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
@@ -102,11 +104,13 @@ async def main():
     app.add_handler(CommandHandler("unsubscribe", unsubscribe))
 
     # Schedule scraping every 5 minutes
-    scheduler = AsyncIOScheduler()
-    scheduler.add_job(scrape, "interval", minutes=0.5, args=[app.bot])
-    scheduler.start()
+
 
     print("Bot running...")
+    await scrape(app.bot)
+    scheduler = AsyncIOScheduler()
+    scheduler.add_job(scrape, "interval", minutes=3, args=[app.bot])
+    scheduler.start()
     await app.run_polling()
 
 
@@ -160,7 +164,7 @@ async def scrape(context):
     data = {"Data": data}
     with open("data.json", "r") as file:
         prev = json.load(file)
-    print(data["Data"])
+    #print(data["Data"])
 
     if prev != data:
         with open("data.json", "w") as file:
